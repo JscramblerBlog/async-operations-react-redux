@@ -1,0 +1,14 @@
+{
+  "planets": [
+    {
+      "id": 1,
+      "name": "Mercury",
+      "imgUrl": "https://www.spaceandmotion.com/Images/cosmology/planet-mercury.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Earth",
+      "imgUrl": "https://www.spaceandmotion.com/Images/cosmology/planet-earth.jpg"
+    }
+  ]
+}
