@@ -3,6 +3,7 @@
 To begin:
 
 ```shell
+> npm install
 > npm run dev
 ```
 
