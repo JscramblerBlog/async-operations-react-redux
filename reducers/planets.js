@@ -5,7 +5,7 @@ const INITIAL_STATE = [];
 const planets = (state = INITIAL_STATE, action) => {
   switch (action.type) {
     case REQUEST_PLANETS:
-      return [];
+      return INITIAL_STATE;
 
     case RECEIVE_PLANETS:
       return action.planets;
