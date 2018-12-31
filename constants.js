@@ -1,2 +1,2 @@
-export const REQUEST_PLANETS = "request planets";
-export const RECEIVE_PLANETS = "receive planets";
+export const REQUEST_PLANETS = 'request planets';
+export const RECEIVE_PLANETS = 'receive planets';
